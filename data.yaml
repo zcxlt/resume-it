@@ -1,0 +1,229 @@
+---
+update_time: '2017.10.26'
+name: 张春旭
+nickname: Annie
+meta_content: HR姐姐们把我招到碗里去吧
+keywords: Annie,前端,工作,简历
+ga_id: 'UA-92595311-1'
+age: 23岁
+gender: 女
+school: 烟台大学文经学院
+profession: 计算机科学与技术
+english_level: CET-6
+blog: www.annixia.com.cn
+github: www.github.com/annixia
+website: 
+online: annixia.github.io/Re
+print: annixia.github.io/Resume/print.html
+apply_to_position: Web前端工程师
+description: !!md |
+  我叫夏安妮，毕业于烟台大学文经学院，现在在碟贝商业智能工作，负责web前端开发。后端Node.js，Python 也略知一二。能折腾，喜欢在实践中学习，学Vue的时候就是看两天文档，然后直接用在写个人博客上，在不断的跳坑脱坑中进步。希望在工作中能应用到自己所学的东西，跟产品一同成长。
+contact: # 联系方式
+  -
+    icon: fa-envelope
+    name: Email
+    value: annixia@163.com
+  -
+    icon: fa-qq
+    name: QQ
+    value: '727455011'
+  -
+    icon: fa-wechat
+    name: Wechat
+    value: 'annixia'
+  -
+    icon: fa-phone-square
+    name: PhoneNumber
+    value: '18832031857'
+honor: # 奖项荣誉
+tech: # 技能点
+  -
+    name: JavaScript
+    percentage: 70%
+  -
+    name: HTML/CSS
+    percentage: 80%
+  -
+    name: ES6
+    percentage: 65%
+  -
+    name: Vue.js
+    percentage: 50%
+  -
+    name: Git/Svn
+    percentage: 65%
+  -
+    name: Node.js
+    percentage: 30%
+  -
+    name: PhotoShop
+    percentage: 30%
+
+
+
+experience: # 项目经验
+  -
+    section: 工作经历
+    exper:
+      -
+        company: 北京蝶贝商业智能科技有限公司
+        date: 2016.7 - 2017.10
+        desc: !!md |
+          碟贝是一家互联网广告公司，其主要产品碟贝见证系统通过数据收集与清洗，使用大数据分析为企业提供广告的投放依据以及广告相关的数据分析，投放效果直观、多数据源接入，主要的客户有京东，５８同城，小米，陌陌， 轻松筹等
+          
+
+          我在研发部担任Web前端工程师，主要做前端方面的实现需求，解决bug等工作。
+
+
+          ---
+        project:
+          -
+            des: !!md |
+              技术需求上，改造过内部的一个手机号验证组件，实现了多实例，状态保存等功能，在代码层面也做了优化，减少$的使用，重复运行的代码抽离出来等等。
+          -
+            des: !!md |
+              业务需求上，在做官网轮播图需求的时候，把旧的代码封装成内部组件，并且可以绑定多个实例，实现代码的复用。
+          -
+            des: !!md |
+              在开发的过程中，我会思考怎么实现是最好的，团队的产品也教会了我认真做好每一个细节。
+
+          -
+            name: 蝶贝商业智能见证系统2.0
+            date: '2015.3'
+            images:            
+              -
+                img: http://oyj87adge.bkt.clouddn.com/565074188677878146.jpg
+              -
+                img: http://oyj87adge.bkt.clouddn.com/212754605312889621.jpg
+            website: http://www.ssrga.com/
+            source_code:
+            technology: Javascript HTML5 CSS3      
+            des: !!md |
+              
+              
+              该项目架构采用Vue2.0, 技术需求上我封装了分页, 轮播图等基本组件, 还改造过内部的一个手机号验证组件，实现了多实例，状态保存等功能，提高了团队的开发效率, 在代码层面也做了优化，减少$的使用，重复运行的代码抽离出来等等。
+              
+
+              在需求评审期间我提出了数据可视化的部分设想, 并在后期调研后使用Echarts独自承担了全部数据可视化的相关工作，并引进百度地图添加聚合marker点呈现任务分布的地理坐标，
+
+          -
+            name: 蝶贝商业智能UC系统
+            date: '2015.3'
+            images:            
+              -
+                img: http://oyj87adge.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171029110135.png
+              #-
+              #  img: http://oyj87adge.bkt.clouddn.com/474239139875326089.jpg
+            website: http://www.ssrga.com/
+            source_code:
+            technology: Vue.JS Bootstrap      
+            des: !!md |
+              UC系统是蝶贝内部的后台权限管理系统,项目采用sso单点登录。使用 Vue.js 框架 和 Sass 预处理器 来实现前端组件及数据交互，使用 webpack 构建
+          -
+            name: 蝶贝商业智能分析决策
+            date: '2015.3'
+            images:            
+              -
+                img: http://oyj87adge.bkt.clouddn.com/289610796489778525.jpg
+              -
+                img: http://oyj87adge.bkt.clouddn.com/846147263930195725.jpg
+
+            website: http://www.ssrga.com/
+            source_code:
+            technology: Javascript HTML5 CSS3      
+            des: !!md |
+              分析决策是一款以数据可视化方式呈现在客户眼前,此项目根据各项数据得出某地点某时段某群体,某建筑的人均消费,人均到达率等以准确有说服力的数据为客户推荐最优投放广告的策略
+
+
+              页面采用bootstrap完成页面弹性布局,bootstrap轮播图组件实现轮播效果,
+              数据可视化部分采用echarts,使用ajax调用后台接口完成展示数据; 
+          -
+            name: 蝶贝商业智能官网
+            date: '2015.3'
+            images:            
+              -
+                img: http://oyj87adge.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171029110809.png
+              -
+                img: http://oyj87adge.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171029111253.png
+            website: http://www.shareyes.cn/
+            source_code:
+            technology: Javascript HTML5 CSS3      
+            des: !!md |
+              在工作期间经常会打造一些公司内部的小工具,主要作用是抓取地标建筑坐标,获取某地标周围(商场,餐厅),获取公交站经过哪些车辆等,工具都是基于百度地图api + javascript完成.
+              蝶贝官网采用html5+css3完成, 页面采用%适配各个pc端屏幕宽度, 页面采用锚链接进行页面定位, 导航栏使用jquery+css3完成滑动效果
+              
+      -
+        company: 北京奔步广告设计有限公司  
+        date: 2014.10 - 2016.7
+        desc: 这是一个面向国外客户的远程开发团队，基于wordpress搭建网站，我在这家公司度过了实习期，初期只负责专题页面的制作，期间熟悉了前端的各项技术, 后面开始负责前端JS开发，最大程度的还原设计稿，完成页面交互。
+        project:
+          -
+            name: innerdoor
+            date: 2016.11
+            images:   
+              - 
+                img: https://xiao555.netlify.com/innerdoor.jpg
+            website: http://innerdoor.vwmdev.com/
+            technology: Javascript HTML5 CSS3            
+            source_code:
+            des: !!md |
+              这个项目相当于一个会员系统，数据都是通过API来获取的，有大量的表格，需要从API获取大量的数据，处理数据，渲染到前端页面上。
+              一开始我写了一堆if-else，数据跟表单一一对应，后来发现这样做代码量很大，而且不够灵活。后来重新安排数据结构，用label作为key值，前端表单label作为value值，通过模板引擎跟后端对应起来，这样既大大减少了代码量，也提高了灵活性。
+          -
+            name: taldumande
+            date: '2015.9'
+            images:   
+              - 
+                img: https://xiao555.netlify.com/taldumande.jpg
+            website: https://www.taldumande.org.au/
+            technology: Javascript HTML 5 CSS 3
+            source_code:
+            des: !!md |
+              这是项目前端已经能完全独立完成了，设计也有很多有趣的地方，像header，footer部分两种颜色，为了不影响其它布局也比较方便用伪元素解决。没有很难的地方，细节很多，也比较考验布局能力。
+          -
+            name: Clubfit
+            date: '2015.5'
+            images:   
+              - 
+                img: https://xiao555.netlify.com/clubfit.jpg
+            website: http://clubfit.vwmdev.com/
+            technology: Javascript HTML 5 CSS 3
+            source_code:
+            des: !!md |
+              接手这个项目时已经对团队的框架比较熟悉了，这个项目也包括了很多页面组件，算是强化练习吧。每天的代码leader会review，我再相应的做出修改，整个过程下来收获很多，是一次蜕变。
+          -
+            name: SSRGA
+            date: '2015.3'
+            images:   
+              - 
+                img: https://xiao555.netlify.com/ssrga.jpg
+            website: http://www.ssrga.com/
+            technology: Javascript HTML 5 CSS 3
+            source_code:
+            des: !!md |
+              这是我接手的第一个项目，为了适应团队框架完成页面我快速学习了模板引擎Nunjucks，CSS预处理器Stylus，数据层YAML语法等等。
+              然后在实践中巩固，最终半个月左右实现了这个项目的前端部分。
+skill: # 技能清单
+      -
+        des: !!md |
+          能够用 HTML + CSS 编写语义化的代码，完成较复杂的布局。
+      -
+        des: !!md |
+          熟悉面向对象JS编程，理解闭包原理，理解原型链的继承机制。
+      -
+        des: !!md |
+          熟悉 AJAX/JSON, 熟悉正则表达式、JSONP 跨域请求。
+      -
+        des: !!md |
+          熟练使用jQuery框架，掌握jQuery与DOM操作及事件处理，了解动态绑定事件的原理。
+      -
+        des: !!md |
+          掌握Css类库Sass技术、Less技术、Webpack、Gulp模块构建工具。
+      -
+        des: !!md |
+          在项目中使用过 Vue，写过 Vue 的双向数据绑定，使用过ES6的新语法以及 Node.js，理解 MVVM/MVC。
+
+
+
+---
+
